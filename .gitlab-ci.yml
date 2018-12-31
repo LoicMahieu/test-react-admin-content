@@ -1,0 +1,4 @@
+image: node:latest
+test:
+  script:
+   - echo "test!!"
